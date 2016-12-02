@@ -1,0 +1,8 @@
+.coverage
+.cache/
+venv/
+excellence.egg-info/
+*.pyc
+*.swp
+*.egg
+*.xlsx
